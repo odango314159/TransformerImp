@@ -12,5 +12,5 @@ Transformerの実装をするためのリポジトリ
    docker build -t impimage .
    docker compose up -d
    ```
-4. localホスト("http://localhost:8888/lab/tree/work")にアクセスして作業を行う。
+4. localホスト(localhost:8888/lab/tree/work)にアクセスして作業を行う。
  
