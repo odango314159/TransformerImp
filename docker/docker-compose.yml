@@ -2,7 +2,7 @@ version: '3'
 
 services:
   jupyter_lab:
-    build: .
+    image: impimage
     volumes:
       - ../work:/work
     ports:
